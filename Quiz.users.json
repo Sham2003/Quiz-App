@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663f5935eb8414b3a90fd4c5"
+  },
+  "username": "subash",
+  "password": "subash",
+  "score": {
+    "Books": 2,
+    "Anime & Manga": 0,
+    "Cricket": 7
+  },
+  "__v": 0,
+  "admin": false
+},
+{
+  "_id": {
+    "$oid": "663f597deb8414b3a90fd4d3"
+  },
+  "username": "sarin",
+  "password": "sarin",
+  "score": {},
+  "__v": 0,
+  "admin": false
+},
+{
+  "_id": {
+    "$oid": "663f8a7dfbe0ba696f3c3091"
+  },
+  "username": "sham",
+  "password": "sham",
+  "score": {
+    "Comics": 6,
+    "Film": 15,
+    "Tamil Cinema": 18,
+    "MCU": 14
+  },
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640b2ed85f4fc4570ae84ce"
+  },
+  "username": "sanjay",
+  "password": "boss",
+  "admin": false,
+  "score": {
+    "Film": 3
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640d4f9e1d66564cb3c54bc"
+  },
+  "username": "admin",
+  "password": "admin",
+  "score": {},
+  "admin": true
+}]
