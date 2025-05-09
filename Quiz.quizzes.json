@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "6641944696355f271d078ee3"
+  },
+  "name": "Tamil Cinema",
+  "quizId": 1,
+  "image": "http://localhost:3001/image/kollywood.jpg",
+  "thumbnail": "http://localhost:3001/image/kollywood-thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "664044e3786dcff24de2ed81"
+  },
+  "name": "Cricket",
+  "quizId": 2,
+  "image": "http://localhost:3001/image/ipl.jpeg",
+  "thumbnail": "http://localhost:3001/image/ipl-trophy.jpg"
+},
+{
+  "_id": {
+    "$oid": "6641952c96355f271d078ee8"
+  },
+  "name": "MCU",
+  "quizId": 3,
+  "image": "http://localhost:3001/image/marvel.jpg",
+  "thumbnail": "http://localhost:3001/image/infinity_war.jpg"
+},
+{
+  "_id": {
+    "$oid": "6641957396355f271d078ee9"
+  },
+  "name": "DC",
+  "quizId": 4,
+  "image": "http://localhost:3001/image/dc.jpg",
+  "thumbnail": "http://localhost:3001/image/dc-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "6641992b96355f271d078ef1"
+  },
+  "name": "Batman",
+  "quizId": 5,
+  "image": "http://localhost:3001/image/batman.jpeg",
+  "thumbnail": "http://localhost:3001/image/batman-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "664199a296355f271d078ef2"
+  },
+  "name": "Spiderman",
+  "quizId": 6,
+  "image": "http://localhost:3001/image/spidey.png",
+  "thumbnail": "http://localhost:3001/image/spidey-thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf55e"
+  },
+  "name": "General Knowledge",
+  "quizId": 9,
+  "image": "http://localhost:3001/image/gk.jpg",
+  "thumbnail": "http://localhost:3001/image/gk-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf55f"
+  },
+  "name": "Books",
+  "quizId": 10,
+  "image": "http://localhost:3001/image/books.png",
+  "thumbnail": "http://localhost:3001/image/book-thumnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf560"
+  },
+  "name": "Film",
+  "quizId": 11,
+  "image": "http://localhost:3001/image/film.jpg",
+  "thumbnail": "http://localhost:3001/image/film-thumnail.png"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf561"
+  },
+  "name": "Music",
+  "quizId": 12,
+  "image": "http://localhost:3001/image/music.jpg",
+  "thumbnail": "http://localhost:3001/image/music-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf562"
+  },
+  "name": "Musicals & Theatres",
+  "quizId": 13,
+  "image": "http://localhost:3001/image/theatre.jpg",
+  "thumbnail": "http://localhost:3001/image/theatre-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf563"
+  },
+  "name": "Television",
+  "quizId": 14,
+  "image": "http://localhost:3001/image/tv.jpeg",
+  "thumbnail": "http://localhost:3001/image/tv-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf564"
+  },
+  "name": "Video Games",
+  "quizId": 15,
+  "image": "http://localhost:3001/image/vgames.png",
+  "thumbnail": "http://localhost:3001/image/vgames-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf565"
+  },
+  "name": "Board Games",
+  "quizId": 16,
+  "image": "http://localhost:3001/image/bgames.jpeg",
+  "thumbnail": "http://localhost:3001/image/bgames-thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf566"
+  },
+  "name": "Science & Nature",
+  "quizId": 17,
+  "image": "http://localhost:3001/image/science.png",
+  "thumbnail": "http://localhost:3001/image/science-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf567"
+  },
+  "name": "Computers",
+  "quizId": 18,
+  "image": "http://localhost:3001/image/computer.jpg",
+  "thumbnail": "http://localhost:3001/image/computer-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf568"
+  },
+  "name": "Mathematics",
+  "quizId": 19,
+  "image": "http://localhost:3001/image/maths.jpeg",
+  "thumbnail": "http://localhost:3001/image/math-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf569"
+  },
+  "name": "Mythology",
+  "quizId": 20,
+  "image": "http://localhost:3001/image/mythology.png",
+  "thumbnail": "http://localhost:3001/image/mythology-thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf56a"
+  },
+  "name": "Sports",
+  "quizId": 21,
+  "image": "http://localhost:3001/image/sports.jpeg",
+  "thumbnail": "http://localhost:3001/image/sports-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf56b"
+  },
+  "name": "Geography",
+  "quizId": 22,
+  "image": "http://localhost:3001/image/geography.jpg",
+  "thumbnail": "http://localhost:3001/image/geography-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf56c"
+  },
+  "name": "History",
+  "quizId": 23,
+  "image": "http://localhost:3001/image/history.jpg",
+  "thumbnail": "http://localhost:3001/image/history-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf56d"
+  },
+  "name": "Politics",
+  "quizId": 24,
+  "image": "http://localhost:3001/image/political.jpg",
+  "thumbnail": "http://localhost:3001/image/political-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf56e"
+  },
+  "name": "Art",
+  "quizId": 25,
+  "image": "http://localhost:3001/image/art.jpeg",
+  "thumbnail": "http://localhost:3001/image/art-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf56f"
+  },
+  "name": "Celebrities",
+  "quizId": 26,
+  "image": "http://localhost:3001/image/celebrities.jpeg",
+  "thumbnail": "http://localhost:3001/image/celeb-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf570"
+  },
+  "name": "Animals",
+  "quizId": 27,
+  "image": "http://localhost:3001/image/animal.jpg",
+  "thumbnail": "http://localhost:3001/image/animal-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf571"
+  },
+  "name": "Vehicles",
+  "quizId": 28,
+  "image": "http://localhost:3001/image/vehicle.jpeg",
+  "thumbnail": "http://localhost:3001/image/vehicle-thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf572"
+  },
+  "name": "Comics",
+  "quizId": 29,
+  "image": "http://localhost:3001/image/comics.jpg",
+  "thumbnail": "http://localhost:3001/image/comics-thumbnail.jpg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf573"
+  },
+  "name": "Gadgets",
+  "quizId": 30,
+  "image": "http://localhost:3001/image/gadgets.jpg",
+  "thumbnail": "http://localhost:3001/image/gadgets-thumbnail.png"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf574"
+  },
+  "name": "Anime & Manga",
+  "quizId": 31,
+  "image": "http://localhost:3001/image/anime.jpg",
+  "thumbnail": "http://localhost:3001/image/anime-thumbnail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66409fa2aa9092d01fccf575"
+  },
+  "name": "Cartoon & Animations",
+  "quizId": 32,
+  "image": "http://localhost:3001/image/cartoon.jpg",
+  "thumbnail": "http://localhost:3001/image/cartoon-thumbnail.jpeg"
+}]

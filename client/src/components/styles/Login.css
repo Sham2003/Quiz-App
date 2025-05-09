@@ -1,0 +1,105 @@
+/* login.css */
+@import url(./fonts/myfonts.css);
+
+.login-container {
+    margin-top: -150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#page-title{
+  margin-top: -10px;
+  text-align: center;
+  font-size: 5em;
+  padding: 0;
+}
+  
+.login-form {
+    background-color:#222831;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 323.2px;
+    height: 284.312px;
+    position: relative;
+    left: -13%;
+    z-index: 1;
+  }
+
+.first{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.second{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.login-form input{
+    background-color: #393E46;
+    color: paleturquoise;
+}
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color:#00ADB5;
+  }
+  .login-form p{
+    margin-left: 60px;
+    color: aqua;
+  }
+  
+  .login-form input[type="text"],
+  .login-form input[type="password"] {
+    width: 300px; 
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px; 
+    border: 2px solid #ccc;
+    border-radius: 6px; 
+  }
+  
+  .login-form button{
+    margin-left: 110px;
+    margin-top: 10px;
+    width:100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+  }
+  .login-form button:hover{
+    box-shadow: 5px 5px aqua;
+  }
+
+  .brand {
+    background-color:white;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 323.2px;
+    height: 284.312px;
+  }
+  .brand p{
+    padding: auto;
+    text-align: center;
+    color: red;
+    font-size: 5em;
+    font-family: 'wild-hazelnut';
+  }
+
+  .brand.first{
+    position: relative;
+    left: calc(13% + 2px);
+    z-index: 3;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+
+  .brand.second{
+    position: relative;
+    left: calc(40% + 2px);
+    z-index: 3;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }

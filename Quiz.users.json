@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "663f5935eb8414b3a90fd4c5"
+  },
+  "username": "subash",
+  "password": "subash",
+  "score": {
+    "Books": 2,
+    "Anime & Manga": 0,
+    "Cricket": 7
+  },
+  "__v": 0,
+  "admin": false
+},
+{
+  "_id": {
+    "$oid": "663f597deb8414b3a90fd4d3"
+  },
+  "username": "sarin",
+  "password": "sarin",
+  "score": {},
+  "__v": 0,
+  "admin": false
+},
+{
+  "_id": {
+    "$oid": "663f8a7dfbe0ba696f3c3091"
+  },
+  "username": "sham",
+  "password": "sham",
+  "score": {
+    "Comics": 6,
+    "Film": 15,
+    "Tamil Cinema": 19,
+    "MCU": 6,
+    "Cricket": 10
+  },
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640b2ed85f4fc4570ae84ce"
+  },
+  "username": "sanjay",
+  "password": "boss",
+  "admin": false,
+  "score": {
+    "Film": 3
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640d4f9e1d66564cb3c54bc"
+  },
+  "username": "admin",
+  "password": "admin",
+  "score": {},
+  "admin": true
+},
+{
+  "_id": {
+    "$oid": "6642d100286bd72cef516284"
+  },
+  "username": "vaishal",
+  "password": "vindhu",
+  "admin": false,
+  "score": {
+    "Anime & Manga": 6
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642e9d4286bd72cef51c8d4"
+  },
+  "username": "roshan",
+  "password": "raj",
+  "admin": false,
+  "score": {
+    "Tamil Cinema": 15
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642ec97286bd72cef51dae8"
+  },
+  "username": "sundar",
+  "password": "sundar",
+  "admin": false,
+  "score": {
+    "Vehicles": 7
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66431cb9d02a4a4a46afa557"
+  },
+  "username": "raj",
+  "password": "raj",
+  "admin": false,
+  "score": {
+    "DC": 1
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66432b576618c988bcb91c45"
+  },
+  "username": "shreyas",
+  "password": "shamgod",
+  "admin": false,
+  "score": {
+    "Tamil Cinema": 17
+  },
+  "__v": 0
+}]

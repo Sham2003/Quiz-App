@@ -1,0 +1,49 @@
+.score-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;   
+}
+  
+.score {
+    background-color:  rgba(255,255,255, 0.4);;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 2;
+    
+}
+
+.score button{
+    background-color:wheat;
+    margin-left: 40%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+}
+.score button:hover{
+  background-color:whitesmoke;
+  box-shadow: 3px 3px 1px 1px saddlebrown;
+}
+
+.score h2{
+  color: red;
+  font-size: 5em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.score p{
+  color: black;
+  font-size: 3em;
+}
+
+.score-bg{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    filter: blur(2px);
+    z-index: 1;
+}
