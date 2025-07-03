@@ -1,27 +1,30 @@
-Quiz App
-This is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. The project is organized into two main directories: client for the front-end React application and server for the back-end Express application.
+# 🧠 Quiz App
 
+A simple and interactive **Quiz Application** built with HTML, CSS, and JavaScript (or add your actual tech stack here). Test your knowledge across multiple categories with timed questions and score tracking!
 
-Prerequisites
-Node.js (v14.x or higher)
-npm (v6.x or higher)
-MongoDB
-Setup
-Clone the repository:
+---
 
+## 🎯 Features
 
-git clone https://github.com/Sham2003/Quiz-App.git
-cd Quiz-App
-Install dependencies for both client and server:
+- ✅ Multiple-choice questions  
+- ⏱️ Timer per question  
+- 📊 Live score display  
+- 🔁 Quiz reset and review  
+- 🎨 Responsive and clean UI design
 
-Start Server:
-cd server
-npm start
-This will run the server on http://localhost:3001
+---
 
-Running the Client
-Navigate to the client directory:
-cd client
-npm start
-This will run the client on http://localhost:3000.
+## ⚙️ Tech Stack
 
+- Frontend: HTML, CSS, JavaScript  
+- (Optional: mention framework, e.g. React, Angular, Vue)  
+- No backend—fully client-side!
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/Sham2003/Quiz-App.git
+   cd Quiz-App
