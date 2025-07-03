@@ -28,3 +28,23 @@ A simple and interactive **Quiz Application** built with HTML, CSS, and JavaScri
    ```bash
    git clone https://github.com/Sham2003/Quiz-App.git
    cd Quiz-App
+   npm start
+2. **Start Server**
+   ```bash
+   cd server
+   npm install
+   npm start
+3. **Start React app**
+   ```bash
+   cd client
+   npm install
+   npm start
+This starts the app.
+
+4. Open in Browser
+   Go to:
+   http://localhost:3000
+
+---
+Enjoy the quiz experience!
+
